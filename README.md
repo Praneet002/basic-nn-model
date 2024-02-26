@@ -43,8 +43,8 @@ This dataset presents a captivating challenge due to the intricate relationship 
 2. Compute relevant metrics such as accuracy, precision, recall, and F1-score to assess the model's effectiveness.
 
 ## PROGRAM
-### Name: YOHESHKUMAR R.M
-### Register Number: 212222240118
+### Name: Praneet S
+### Register Number: 212221230078
 #### DEPENDENCIES:
 ```py
 import pandas as pd
